@@ -9,7 +9,6 @@ import iskallia.vault.client.gui.framework.element.TextureAtlasElement;
 import iskallia.vault.client.gui.framework.element.spi.IRenderedElement;
 import iskallia.vault.client.gui.framework.spatial.Spatials;
 import iskallia.vault.client.gui.framework.spatial.spi.ISpatial;
-import iskallia.vault.client.gui.screen.summary.element.VaultExitTabContainerElement;
 import iskallia.vault.init.ModTextureAtlases;
 
 import java.util.List;
